@@ -1,2 +1,3 @@
 # Exo-2---Openclassroom
-Exercice d'application
+
+Petit projet sur l'animation en CSS
